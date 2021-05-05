@@ -16,6 +16,10 @@
 <p style="color: red;">
 Ig.news is a technology blog with full posts for subscribers and preview posts for visitors. Payment is made by Stripe using a credit card. The posts are made by Prismic CMS.
 </p>
+<p style="color: red;">
+This project was developed during the Ignite course. In this project, I was introduced to many new concepts like headless CMS,
+Next.js API Routes and the Stripe payment method
+</p>
 <img alt="Tela do aplicativo" src="https://github.com/HerbertSousa/Ignite-03-ignews/blob/main/public/ignews.gif" width="100%" />
 
 ## 🚀 Technologies
@@ -23,7 +27,7 @@ Ig.news is a technology blog with full posts for subscribers and preview posts f
 Technologies that I used to develop this web client
 
 - [ReactJS](https://reactjs.org/)
-- [NextJS](https://nextjs.org/docs)
+- [Next.js](https://nextjs.org/docs)
 - [Next-Auth](https://next-auth.js.org/getting-started/example)
 - [FaunaDB](https://docs.fauna.com/fauna/current/start/index.html)
 - [Prismic](https://prismic.io/docs)
