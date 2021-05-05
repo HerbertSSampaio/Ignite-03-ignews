@@ -69,7 +69,4 @@ export const getServerSideProps: GetServerSideProps = async ({ req, params }) =>
             post,
         }
      };
-
-
-
 }
