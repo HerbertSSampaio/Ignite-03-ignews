@@ -12,13 +12,14 @@
 </p>
 
 ## 👨🏻‍💻 About the project
+[Project running](https://ignews-bp00jcoak-herbertsousa.vercel.app/)
 
-<p style="color: red;">
+<p>
 Ig.news is a technology blog with full posts for subscribers and preview posts for visitors. Payment is made by Stripe using a credit card. The posts are made by Prismic CMS.
 </p>
-<p style="color: red;">
+<p>
 This project was developed during the Ignite course. In this project, I was introduced to many new concepts like headless CMS,
-Next.js API Routes and the Stripe payment method
+Next.js API Routes and the Stripe payment method.
 </p>
 <img alt="Tela do aplicativo" src="https://github.com/HerbertSousa/Ignite-03-ignews/blob/main/public/ignews.gif" width="100%" />
 
